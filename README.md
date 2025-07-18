@@ -1,9 +1,3 @@
-# 🌱 CarbonCrop GitHub Configuration
-
-Welcome to CarbonCrop’s central `.github` repository — home to shared GitHub config and workflows that support our mission to scale forest restoration and carbon removals using cutting-edge AI and automation.
-
----
-
 ## 🌍 About CarbonCrop
 
 CarbonCrop exists to **“Keep Carbon Simple”** through an AI-powered forest restoration platform. We help landholders, catchment groups, and businesses to:
@@ -13,6 +7,10 @@ CarbonCrop exists to **“Keep Carbon Simple”** through an AI-powered forest r
 - **Support native forestry**, ecosystem resilience, and biodiversity, particularly in New Zealand
 
 Founded in 2020 as a spin‑off from the Nelson Artificial Intelligence Institute, our platform has assessed over 4 million ha of land, facilitated registration of 1,000+ ha of native forest, and helped remove over 350,000 t of CO₂ to date.
+
+## Where's our code?
+
+Our code is all in private repositories, so you probably won't see anything here. For more info about us, go to carboncrop.com.
 
 ## ✅ Support & Questions
 
